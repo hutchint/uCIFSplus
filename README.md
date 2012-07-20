@@ -4,6 +4,7 @@ uCIFSplus
 uCIFSplus - Lightweight SMB3.0 server
 ====================================================
 License: GPLv3
+
 Copyright 2012, Terrance Hutchinson 
 <terrance.hutchinson@hellfirestorage.com>
 
