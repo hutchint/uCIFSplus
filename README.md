@@ -14,4 +14,5 @@ The libsmb3 library will be used to help build the server. The server will be bu
 
 
 Supported Compilers: Clang 3.1
+
 Supported OS types: BSD, Unix (Solaris/Mac OS X 10.7+), GNU/Linux
